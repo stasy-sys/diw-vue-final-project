@@ -1,0 +1,586 @@
+{
+  "clientes": [
+    {
+      "dni": "65412378X",
+      "nombre": "AlfredoS",
+      "apellido": "Barros Núñez",
+      "email": "alfredo@mail.com",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "dni": "55663311E",
+      "alta": "02/10/2023",
+      "apellido": "Abal Solla",
+      "nombre": "María",
+      "direccion": "Calle Progreso, 5, 6ºa",
+      "provincia": "Ourense",
+      "municipio": "Ourense",
+      "movil": 722568945,
+      "email": "alvaro@corre.es"
+    },
+    {
+      "id": "7",
+      "dni": "11111111H",
+      "alta": "01/10/2023",
+      "apellido": "Ruiz Solla",
+      "nombre": "Alvaro",
+      "direccion": "Calle Santiago Mayor, 34",
+      "provincia": "A Coruña",
+      "municipio": "Bergondo",
+      "movil": 654789456,
+      "email": "alfredo@mail.com"
+    },
+    {
+      "id": "8",
+      "dni": "Y2345678Z",
+      "alta": "31/10/2023",
+      "apellido": "Salam Alí",
+      "nombre": "Jasmina",
+      "direccion": "Calle Muralla, 2",
+      "provincia": "Lugo",
+      "municipio": "Láncara",
+      "movil": 775645654,
+      "email": "jasmina@cole.com"
+    },
+    {
+      "id": "9",
+      "dni": "44564564V",
+      "alta": "06/11/2023",
+      "apellido": "Santos Álvarez",
+      "nombre": "Isabel",
+      "direccion": "Calle Solano, 23, 11ºg",
+      "provincia": "Madrid",
+      "municipio": "Madrid",
+      "movil": 756789456,
+      "email": "isabel@correo.com"
+    },
+    {
+      "dni": "56464123C",
+      "nombre": "Luiss",
+      "apellido": "González Arias",
+      "email": "luis@caspio.com",
+      "id": "10"
+    },
+    {
+      "dni": "Z8927237E",
+      "nombre": "Agustín José",
+      "apellido": "Ninahuam Lopera",
+      "email": "agustin@social.com",
+      "id": "11"
+    },
+    {
+      "id": "12",
+      "dni": "00504239X",
+      "alta": "30/10/2023",
+      "apellido": "Pérez Segarra",
+      "nombre": "Daniel",
+      "direccion": "Calle Manga Del Mar Menor, 12 8ºa",
+      "provincia": "Murcia",
+      "municipio": "Caravaca de la Cruz",
+      "movil": 654123489,
+      "email": "daniel@lopero.com"
+    },
+    {
+      "id": "13",
+      "dni": "19727411N",
+      "alta": "06/09/2023",
+      "apellido": "García Hernández",
+      "nombre": "María",
+      "direccion": "Calle Olmedo, 4",
+      "provincia": "Pontevedra",
+      "municipio": "Vigo",
+      "movil": 775648954,
+      "email": "maria@gmail.es"
+    },
+    {
+      "id": "14",
+      "dni": "78152003G",
+      "alta": "29/09/2023",
+      "apellido": "Castro Penelas",
+      "nombre": "José",
+      "direccion": "Calle Lameiriña, 23 2ºa",
+      "provincia": "Pontevedra",
+      "municipio": "Marín",
+      "movil": 658965895,
+      "email": "jose@social.com"
+    },
+    {
+      "id": "15",
+      "dni": "55091012D",
+      "alta": "05/10/2023",
+      "apellido": "Abalde Alonso",
+      "nombre": "Antonio",
+      "direccion": "Avenida De Castrelos, 12",
+      "provincia": "Pontevedra",
+      "municipio": "Vigo",
+      "movil": 654321456,
+      "email": "antonio@gmail.bt"
+    },
+    {
+      "id": "16",
+      "dni": "49455203M",
+      "alta": "01/11/2023",
+      "apellido": "Lora Vasco",
+      "nombre": "Isaura",
+      "direccion": "Calle Gomera, 12",
+      "provincia": "Santa Cruz de Tenerife",
+      "municipio": "San Sebastián de la Gomera",
+      "movil": 654321987,
+      "email": "isaura@mail.com"
+    },
+    {
+      "id": "17",
+      "dni": "Z8571931C",
+      "alta": "25/09/2023",
+      "apellido": "Zakarova",
+      "nombre": "Alexandra",
+      "direccion": "Calle Preciados, 1 10º G",
+      "provincia": "Madrid",
+      "municipio": "Madrid",
+      "movil": 654321489,
+      "email": "alexandra@social.com"
+    },
+    {
+      "id": "18",
+      "dni": "21480233G",
+      "alta": "30/08/2023",
+      "apellido": "Franco Gil",
+      "nombre": "Jose María",
+      "direccion": "Calle Sidra, 12 4º A",
+      "provincia": "Asturias",
+      "municipio": "Avilés",
+      "movil": 775665859,
+      "email": "jmaria@caspio.com"
+    },
+    {
+      "id": "19",
+      "dni": "78262652T",
+      "alta": "17/08/2023",
+      "apellido": "Sancho Gracia",
+      "nombre": "Ana",
+      "direccion": "Calle Faisán, 12 1ºb",
+      "provincia": "Alicante",
+      "municipio": "Aigües",
+      "movil": 658956234,
+      "email": "ana@fico.com"
+    },
+    {
+      "id": "20",
+      "dni": "32946372E",
+      "alta": "13/09/2023",
+      "apellido": "Ros Pujol",
+      "nombre": "Jaume",
+      "direccion": "Calle Albufera, 23 1º A",
+      "provincia": "Valencia",
+      "municipio": "Carcaixent",
+      "movil": 654321789,
+      "email": "jaume@arroba.com"
+    },
+    {
+      "id": "21",
+      "dni": "Z7900384G",
+      "alta": "06/09/2023",
+      "apellido": "Obongo Aluba",
+      "nombre": "Samuel",
+      "direccion": "Calle Pilarica, 34 2ºa",
+      "provincia": "Zaragoza",
+      "municipio": "Villanueva de Huerva",
+      "movil": 654321456,
+      "email": "samuel@fico.com"
+    },
+    {
+      "id": "22",
+      "dni": "75930825M",
+      "alta": "15/09/2023",
+      "apellido": "Botella Solís",
+      "nombre": "María Del Carmen",
+      "direccion": "Calle Quijote, 3",
+      "provincia": "Toledo",
+      "municipio": "Talavera de la Reina",
+      "movil": 789456132,
+      "email": "mariadelcarmen@gmail.com"
+    },
+    {
+      "id": "23",
+      "dni": "16562829T",
+      "alta": "02/11/2023",
+      "apellido": "Sáez Aspas",
+      "nombre": "Alfredo",
+      "direccion": "Calle Laguna, 23",
+      "provincia": "Palencia",
+      "municipio": "Aguilar de Campoo",
+      "movil": 659856234,
+      "email": "alfredo@maul.com"
+    },
+    {
+      "id": "24",
+      "dni": "Y6382360N",
+      "alta": "30/10/2023",
+      "apellido": "Faro Dacosta",
+      "nombre": "Jesús",
+      "direccion": "Calle Costa, 5  2º F",
+      "provincia": "Lugo",
+      "municipio": "Viveiro",
+      "movil": 774578974,
+      "email": "kunta@yahoo.net"
+    },
+    {
+      "id": "25",
+      "dni": "Z8521710P",
+      "alta": "31/10/2023",
+      "apellido": "Aluya Salá",
+      "nombre": "Kunta",
+      "direccion": "Calle Preciados, 12 6ºd",
+      "provincia": "Madrid",
+      "municipio": "Madrid",
+      "movil": 654789159,
+      "email": "andreu@microchof.com"
+    },
+    {
+      "id": "26",
+      "dni": "69888610M",
+      "alta": "01/11/2023",
+      "apellido": "Sánchez Coll",
+      "nombre": "Andreu",
+      "direccion": "Calle Juderías, 3 2ºa",
+      "provincia": "Girona",
+      "municipio": "Girona",
+      "movil": 652235648,
+      "email": "sara@microchof.com"
+    },
+    {
+      "id": "27",
+      "dni": "36652671D",
+      "alta": "03/10/2023",
+      "apellido": "Santos Comesaña",
+      "nombre": "Sara",
+      "direccion": "Calle Franco, 4 1ºa",
+      "provincia": "A Coruña",
+      "municipio": "Santiago de Compostela",
+      "movil": 639852147,
+      "email": "sara@mail.com"
+    },
+    {
+      "id": "28",
+      "dni": "82606388W",
+      "alta": "20/11/2023",
+      "apellido": "Soto Garrido",
+      "nombre": "Alberto",
+      "direccion": "Calle Montero Ríos, 12 1ºa",
+      "provincia": "Pontevedra",
+      "municipio": "Pontevedra",
+      "movil": 654741963,
+      "email": "alberto@berto.com"
+    },
+    {
+      "id": "29",
+      "dni": "X6623172T",
+      "alta": "02/11/2023",
+      "apellido": "Ali Burrei",
+      "nombre": "Salam",
+      "direccion": "Calle Principal, 3 2ºe",
+      "provincia": "Barcelona",
+      "municipio": "Hospitalet de Llobregat, L'",
+      "movil": 653256455,
+      "email": "salman@lopero.com"
+    },
+    {
+      "id": "30",
+      "dni": "83452899K",
+      "alta": "30/10/2023",
+      "apellido": "Sáez Heredia",
+      "nombre": "Herminia",
+      "direccion": "Calle Sidra, 24 5ºc",
+      "provincia": "Asturias",
+      "municipio": "Avilés",
+      "movil": 757898569,
+      "email": "herminia@hermi.com"
+    },
+    {
+      "id": "39",
+      "dni": "59257832B",
+      "alta": "31/12/2022",
+      "apellido": "López",
+      "nombre": "Jennifer",
+      "direccion": "Calle Vieja, 11",
+      "provincia": "Ourense",
+      "municipio": "Ourense",
+      "movil": 722568945,
+      "email": "jenni@fer.com"
+    },
+    {
+      "id": "42",
+      "dni": "90794573A",
+      "alta": "12/09/2023",
+      "apellido": "Swift",
+      "nombre": "Taylor",
+      "direccion": "Calle de Arriba, 14",
+      "provincia": "Zaragoza",
+      "municipio": "Calpe",
+      "movil": 654321457,
+      "email": "taylor@correo.com"
+    },
+    {
+      "id": "43",
+      "dni": "55666566B",
+      "alta": "16/12/2023",
+      "apellido": "Mick",
+      "nombre": "Jagger",
+      "direccion": "Calle de Abajo, 29",
+      "provincia": "Cáceres",
+      "municipio": "Trujillo",
+      "movil": 654321458,
+      "email": "jagger@yahoo.bt"
+    },
+    {
+      "dni": "13656192B",
+      "nombre": "Moisés",
+      "apellido": "Salvadora",
+      "email": "salvador@loquesea.com",
+      "id": "1df2"
+    }
+  ],
+  "articulos": [
+    {
+      "nombre": "Portátil HP Pavilion",
+      "precio_euros": "800.00",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Monitor ASUS 24 pulgadas",
+      "precio_euros": 179.99
+    },
+    {
+      "id": "3",
+      "nombre": "Teclado mecánico Logitech G Pro",
+      "precio_euros": 129.95
+    },
+    {
+      "id": "4",
+      "nombre": "Mouse inalámbrico Microsoft Arc",
+      "precio_euros": 59.99
+    },
+    {
+      "id": "5",
+      "nombre": "Disco duro SSD Samsung 500GB",
+      "precio_euros": 89.99
+    },
+    {
+      "id": "6",
+      "nombre": "Tarjeta gráfica NVIDIA GeForce RTX 3070",
+      "precio_euros": 499.99
+    },
+    {
+      "id": "7",
+      "nombre": "Auriculares gaming HyperX Cloud II",
+      "precio_euros": 99.95
+    },
+    {
+      "id": "8",
+      "nombre": "Router Wi-Fi TP-Link Archer C7",
+      "precio_euros": 79.99
+    },
+    {
+      "id": "9",
+      "nombre": "Impresora multifunción Epson EcoTank",
+      "precio_euros": 249.99
+    },
+    {
+      "id": "10",
+      "nombre": "Altavoces Bluetooth Bose SoundLink",
+      "precio_euros": 149.5
+    },
+    {
+      "id": "12",
+      "nombre": "Placa base ASUS ROG Strix B550-F",
+      "precio_euros": 189.99
+    },
+    {
+      "id": "13",
+      "nombre": "Webcam Logitech C920 HD Pro",
+      "precio_euros": 79.95
+    },
+    {
+      "id": "14",
+      "nombre": "Memoria RAM Corsair Vengeance 16GB",
+      "precio_euros": 89.75
+    },
+    {
+      "id": "15",
+      "nombre": "Caja PC NZXT H510",
+      "precio_euros": 79.99
+    },
+    {
+      "id": "16",
+      "nombre": "Silla gaming DXRacer Formula Series",
+      "precio_euros": 299.99
+    },
+    {
+      "id": "17",
+      "nombre": "Micrófono USB Blue Yeti",
+      "precio_euros": 129.99
+    },
+    {
+      "id": "18",
+      "nombre": "Dispositivo de almacenamiento NAS Synology DS920+",
+      "precio_euros": 549
+    },
+    {
+      "id": "19",
+      "nombre": "Laptop Dell XPS 13",
+      "precio_euros": 1299
+    },
+    {
+      "id": "20",
+      "nombre": "Tarjeta madre MSI MPG B550 Gaming Edge",
+      "precio_euros": 159.99
+    },
+    {
+      "id": "21",
+      "nombre": "Ratón gaming Razer DeathAdder Elite",
+      "precio_euros": 69.99
+    },
+    {
+      "id": "22",
+      "nombre": "Teclado inalámbrico Apple Magic Keyboard",
+      "precio_euros": 119
+    },
+    {
+      "id": "23",
+      "nombre": "Monitor curvo Samsung Odyssey G7",
+      "precio_euros": 699.99
+    },
+    {
+      "id": "24",
+      "nombre": "Tarjeta de sonido externa Creative Sound BlasterX G6",
+      "precio_euros": 149.95
+    },
+    {
+      "id": "25",
+      "nombre": "SSD externo SanDisk Extreme 1TB",
+      "precio_euros": 149.99
+    },
+    {
+      "id": "26",
+      "nombre": "Proyector Epson Home Cinema 5050UB",
+      "precio_euros": 2399
+    },
+    {
+      "id": "27",
+      "nombre": "Monitor ultra ancho LG 34WN80C-B",
+      "precio_euros": 549.99
+    },
+    {
+      "id": "28",
+      "nombre": "Cámara Logitech BRIO Ultra HD Pro",
+      "precio_euros": 199.99
+    },
+    {
+      "id": "29",
+      "nombre": "Auriculares inalámbricos Sony WH-1000XM4",
+      "precio_euros": 349.99
+    },
+    {
+      "id": "30",
+      "nombre": "Teclado mecánico Corsair K95 RGB Platinum XT",
+      "precio_euros": 199.99
+    },
+    {
+      "id": "31",
+      "nombre": "Laptop MSI GS66 Stealth",
+      "precio_euros": 1799
+    },
+    {
+      "id": "32",
+      "nombre": "Tarjeta gráfica AMD Radeon RX 6700 XT",
+      "precio_euros": 479
+    },
+    {
+      "id": "33",
+      "nombre": "Router gaming ASUS ROG Rapture GT-AX11000",
+      "precio_euros": 449.99
+    },
+    {
+      "id": "34",
+      "nombre": "Impresora 3D Creality Ender 3",
+      "precio_euros": 199.99
+    },
+    {
+      "id": "35",
+      "nombre": "Monitor OLED Alienware 34 QD-OLED",
+      "precio_euros": 1299
+    },
+    {
+      "id": "36",
+      "nombre": "Teclado gaming SteelSeries Apex Pro",
+      "precio_euros": 179.99
+    },
+    {
+      "id": "37",
+      "nombre": "Mouse ergonómico vertical Anker",
+      "precio_euros": 24.99
+    },
+    {
+      "id": "38",
+      "nombre": "Tableta gráfica Wacom Intuos Pro",
+      "precio_euros": 349.95
+    },
+    {
+      "id": "39",
+      "nombre": "Caja PC Corsair Crystal Series 680X",
+      "precio_euros": 259.99
+    },
+    {
+      "id": "40",
+      "nombre": "Auriculares con cancelación de ruido Bose QuietComfort 35 II",
+      "precio_euros": 299
+    },
+    {
+      "id": "41",
+      "nombre": "Procesador Intel Core i7-10700K",
+      "precio_euros": 349.99
+    },
+    {
+      "id": "42",
+      "nombre": "Tarjeta madre Gigabyte Z390 AORUS PRO",
+      "precio_euros": 189.99
+    },
+    {
+      "id": "43",
+      "nombre": "Altavoces Logitech Z623",
+      "precio_euros": 149.99
+    },
+    {
+      "id": "44",
+      "nombre": "Micrófono Blue Yeti Nano",
+      "precio_euros": 69.95
+    },
+    {
+      "nombre": "Alfombrilla para mouse Razer Goliathusss",
+      "precio_euros": 29.99,
+      "id": "45"
+    },
+    {
+      "id": "46",
+      "nombre": "Cámara de seguridad Nest Cam Outdoor",
+      "precio_euros": 199
+    },
+    {
+      "id": "47",
+      "nombre": "Teclado mecánico Razer BlackWidow Elite",
+      "precio_euros": 159.99
+    },
+    {
+      "id": "48",
+      "nombre": "Disco duro externo WD Black 4TB",
+      "precio_euros": 169.99
+    },
+    {
+      "id": "49",
+      "nombre": "Laptop Lenovo Legion Y540",
+      "precio_euros": 999
+    }
+  ]
+}
