@@ -1,30 +1,38 @@
 <template>
-  <div>
+  <nav>
     <NavBar />
-  </div>
-  <div>
+  </nav>
+  <header>
     <h1 class="text-center">Página de inicio de {{ alumno_a }}</h1>
-  </div>
+  </header>
+  <!-- Botones -->
   <div class="container text-center mt-5">
     <div class="row mx-auto">
       <div class="col">
         <router-link to="/clientes" class="navbar-brand">
           <button type="button" class="btn btn-primary btn-lg m-3 p-5 w-25">
           Gestión Cliente
-        </button></router-link>
+          </button>
+        </router-link>
         <router-link to="/tareas" class="navbar-brand">
           <button type="button" class="btn btn-primary btn-lg m-3 p-5 w-25">
           Gestión Tareas
         </button>
-        </router-link>
+      </router-link>
       </div>
     </div>
     <div class="row mx-auto">
       <div class="col">
-        <button type="button" class="btn btn-primary btn-lg m-3 p-5 w-25">
-          Gestión Ventas
-        </button>
-        <button type="button" class="btn btn-primary btn-lg m-3 p-5 w-25">Contacto</button>
+        <router-link to="/articulos" class="navbar-brand">
+          <button type="button" class="btn btn-primary btn-lg m-3 p-5 w-25">
+          Gestión Articulós
+          </button>
+        </router-link>
+        <router-link to="/viajes" class="navbar-brand">
+          <button type="button" class="btn btn-primary btn-lg m-3 p-5 w-25">
+          Gestion Viajes
+          </button>
+        </router-link>    
       </div>
     </div>
   </div>
@@ -39,7 +47,7 @@ export default {
   },
   data() {
     return {
-      alumno_a: "Anastasia",
+      alumno_a: "Ana",
     };
   },
   mounted() {

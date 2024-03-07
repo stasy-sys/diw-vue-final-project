@@ -8,6 +8,10 @@
         </div>
     </div>
     </div>
+    <div class="container flex flex-col items-center mt-10">
+        <h1 class="text-3xl mb-3">Lo sentimos, esta página no existe</h1>
+        <router-link class="btn btn-light-green" :to="{ name: 'home' }">Volver al Inicio</router-link>
+    </div>
 </template>
 
 <script>
