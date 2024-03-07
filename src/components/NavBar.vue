@@ -28,6 +28,9 @@
         <router-link v-if="contactoExists" to="/contacto" class="navbar-brand"
           >Contacto</router-link
         >
+        <router-link v-if="viajesExists" to="/viajes" class="navbar-brand"
+          >Viajes</router-link
+        >
         <form class="d-flex">
           <input
             class="form-control me-2"
@@ -42,6 +45,7 @@
             <i class="bi bi-search"></i>
           </button>
         </form>
+
         <!-- acordeón -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -62,13 +66,18 @@
               <router-link to="/ventas" class="nav-link">Ventas</router-link>
             </li>
             <li class="nav-item" v-if="tareasExists">
-              <router-link v-if="tareasExists" to="/tareas" class="navbar-brand"
+              <router-link v-if="tareasExists" to="/tareas" class="nav-link"
                 >Tareas</router-link
               >
             </li>
             <li class="nav-item" v-if="contactoExists">
               <router-link to="/contacto" class="nav-link"
                 >Contacto</router-link
+              >
+            </li>
+            <li class="nav-item" v-if="viajesExists">
+              <router-link to="/viajes" class="nav-link"
+                >Viajes</router-link
               >
             </li>
           </ul>
@@ -96,6 +105,9 @@ export default {
     },
     articulosExists() {
       return this.$router.hasRoute("articulos");
+    },
+    viajesExists(){
+      return this.$router.hasRoute("viajes");
     },
   },
 };
