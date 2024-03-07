@@ -383,7 +383,7 @@ export default {
       try {
         const viaje = this.viajeSeleccionado;
 
-        viaje.lugar = this.nombre;
+        viaje.lugar = this.lugar;
         viaje.descripcion = this.descripcion;
         viaje.fecha = this.fecha;
         viaje.clase = this.clase;
